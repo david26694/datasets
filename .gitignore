@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+*.Rproj
+*.pdf
+*/covid19-españa.Rmd
+*/covid19-españa.html
